@@ -19,13 +19,12 @@ const prompts = [
   ["help me", "tell me story", "tell me joke"],
   ["ah", "yes", "ok", "okay", "nice"],
   ["bye", "good bye", "goodbye", "see you later"],
-  ["what should i eat today"],
+  ["hare krishna"],
   ["bro"],
   ["what", "why", "how", "where", "when"],
   ["no", "not sure", "maybe", "no thanks"],
   [""],
   ["kehndi hundi si", "khndi hundi si"]
-  ["Hare Krishna", "hare krishna", "HARE KRISHNA"]
 ]
 
 // Possible responses, in corresponding order
@@ -53,13 +52,12 @@ const replies = [
   ["What about?", "Once upon a time..."],
   ["Tell me a story", "Tell me a joke", "Tell me about yourself"],
   ["Bye", "Goodbye", "See you later"],
-  ["Sushi", "Pizza"],
+  ["hare krishna krishna is love"],
   ["Bro!"],
   ["Great question"],
   ["That's ok", "I understand", "What do you want to talk about?"],
   ["Please say something :("],
   ["chah tak raah bana dey", "chha tak raaah banaa dey"]
-  ["HARE KRISHNA KRISHNA IS LOVE"]
 ]
 
 // Random for any other user input
