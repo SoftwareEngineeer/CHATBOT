@@ -25,6 +25,7 @@ const prompts = [
   ["no", "not sure", "maybe", "no thanks"],
   [""],
   ["kehndi hundi si", "khndi hundi si"]
+  ["Hare Krishna", "hare krishna", "HARE KRISHNA"]
 ]
 
 // Possible responses, in corresponding order
@@ -58,6 +59,7 @@ const replies = [
   ["That's ok", "I understand", "What do you want to talk about?"],
   ["Please say something :("],
   ["chah tak raah bana dey", "chha tak raaah banaa dey"]
+  ["HARE KRISHNA KRISHNA IS LOVE"]
 ]
 
 // Random for any other user input
